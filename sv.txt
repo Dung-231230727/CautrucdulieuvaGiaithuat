@@ -1,0 +1,81 @@
+20
+SV001
+Nguyen Van A
+20
+8.5
+SV002
+Tran Thi B
+19
+9.0
+SV003
+Le Van C
+21
+7.5
+SV004
+Pham Minh D
+22
+8.0
+SV005
+Hoang Thi E
+20
+9.5
+SV006
+Nguyen Van F
+23
+7.0
+SV007
+Tran Van G
+21
+8.3
+SV008
+Le Thi H
+19
+9.2
+SV009
+Pham Van I
+22
+7.8
+SV010
+Nguyen Thi J
+20
+8.7
+SV011
+Tran Van K
+21
+8.1
+SV012
+Le Van L
+19
+9.3
+SV013
+Pham Thi M
+22
+7.9
+SV014
+Nguyen Van N
+20
+8.6
+SV015
+Tran Thi O
+21
+9.1
+SV016
+Le Van P
+19
+8.4
+SV017
+Pham Minh Q
+22
+7.7
+SV018
+Nguyen Thi R
+20
+9.4
+SV019
+Tran Van S
+21
+8.2
+SV020
+Le Thi T
+19
+9.6
